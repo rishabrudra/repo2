@@ -1,0 +1,4 @@
+mvn -B archetype:generate \
+-DarchetypeGroupId=org.apache.maven.archetypes 
+ -Dg-DartifactId=my-approupId=com.mycompany.app \
+\-DartifactId=my-app
